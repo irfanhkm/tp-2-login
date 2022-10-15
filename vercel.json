@@ -10,7 +10,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://tk-2-grade.vercel.app/",
+        "APP_URL": "https://tp-2-login.vercel.app",
         "DB_CONNECTION": "mysql",
         "DB_HOST": "remotemysql.com",
         "DB_PORT": "3306",
